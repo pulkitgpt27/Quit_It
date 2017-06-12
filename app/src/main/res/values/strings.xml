@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quit_It</string>
+
+    <string name="medical_cancer">Cancer</string>
+
+    <string name="medical_Sugar">Sugar</string>
+
+    <string name="medical_Lung">Lung Problem</string>
+
+
+    <string name="hobby_news">News</string>
+
+    <string name="hobby_cricket">Cricket</string>
+
+    <string name="hobby_football">Football</string>
+
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_new_entry">New_Entry</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_old_entry">All_Entry</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
